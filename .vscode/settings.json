@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "emquanto.C": "cpp",
+        "while.C": "cpp",
+        "For.C": "cpp",
+        "Do while.C": "cpp",
+        "Interger and Float.C": "cpp",
+        "Alphanumerics.C": "cpp",
+        "Boolean.C": "cpp"
+    }
+}
