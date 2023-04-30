@@ -7,6 +7,9 @@
         "Do while.C": "cpp",
         "Interger and Float.C": "cpp",
         "Alphanumerics.C": "cpp",
-        "Boolean.C": "cpp"
+        "Boolean.C": "cpp",
+        "Math Operation.C": "cpp",
+        "Vectors.C": "cpp",
+        "Matrices.C": "cpp"
     }
 }

@@ -8,11 +8,13 @@
 */
 int main(){
 
-    int boolean  = 1;
+    int vBoolean01  = true;
+    int vBoolean02 = false;
 
-    if (boolean){
 
-        printf("True\n");
+    if (vBoolean01){ 
+
+        printf("The variable boolean is True\n");
 
     
     }
