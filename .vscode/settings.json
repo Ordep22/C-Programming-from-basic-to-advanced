@@ -10,6 +10,7 @@
         "Boolean.C": "cpp",
         "Math Operation.C": "cpp",
         "Vectors.C": "cpp",
-        "Matrices.C": "cpp"
+        "Matrices.C": "cpp",
+        "BinariNumbers.C": "cpp"
     }
 }

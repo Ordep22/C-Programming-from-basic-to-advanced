@@ -29,11 +29,4 @@ int main()
     // Interger vectors
 
 
-    
-
-
-
-
-
-
 }
