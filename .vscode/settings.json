@@ -11,6 +11,8 @@
         "Math Operation.C": "cpp",
         "Vectors.C": "cpp",
         "Matrices.C": "cpp",
-        "BinariNumbers.C": "cpp"
+        "BinariNumbers.C": "cpp",
+        "Hex.C": "cpp",
+        "Writefirstfunction.C": "cpp"
     }
 }
