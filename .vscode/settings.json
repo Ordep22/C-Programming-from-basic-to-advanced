@@ -13,6 +13,7 @@
         "Matrices.C": "cpp",
         "BinariNumbers.C": "cpp",
         "Hex.C": "cpp",
-        "Writefirstfunction.C": "cpp"
+        "Writefirstfunction.C": "cpp",
+        "Headerfiles.C": "cpp"
     }
 }
