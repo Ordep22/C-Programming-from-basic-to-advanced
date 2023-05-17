@@ -14,6 +14,9 @@
         "BinariNumbers.C": "cpp",
         "Hex.C": "cpp",
         "Writefirstfunction.C": "cpp",
-        "Headerfiles.C": "cpp"
+        "Headerfiles.C": "cpp",
+        "Pointers.C": "cpp",
+        "type_traits": "c",
+        "MemoryAdrees.C": "cpp"
     }
 }
