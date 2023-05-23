@@ -17,6 +17,7 @@
         "Headerfiles.C": "cpp",
         "Pointers.C": "cpp",
         "type_traits": "c",
-        "MemoryAdrees.C": "cpp"
+        "MemoryAdrees.C": "cpp",
+        "CreatePointer.C": "cpp"
     }
 }
