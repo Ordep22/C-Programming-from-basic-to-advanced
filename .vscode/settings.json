@@ -18,6 +18,9 @@
         "Pointers.C": "cpp",
         "type_traits": "c",
         "MemoryAdrees.C": "cpp",
-        "CreatePointer.C": "cpp"
+        "CreatePointer.C": "cpp",
+        "Implemmenting Pointers.C": "cpp",
+        "ImplemmentingPointers.C": "cpp",
+        "Arrays and Pointers.C": "cpp"
     }
 }
