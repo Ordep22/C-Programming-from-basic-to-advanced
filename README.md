@@ -1,6 +1,6 @@
 <br>
 
-<img align="left" width="90" height="90" src="https://raw.githubusercontent.com/Ordep22/Course-of-data-science/c6dfd9bf6130a8dcd6b1a5cf8140c905b424f14e/Images/python.svg">
+<img align="left" width="90" height="90" src="Images/C_Programming_Language.png">
 <p vertical-align="middle"><h1>Course of Data Science with Python</h1></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
