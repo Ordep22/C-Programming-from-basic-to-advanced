@@ -21,6 +21,10 @@
         "CreatePointer.C": "cpp",
         "Implemmenting Pointers.C": "cpp",
         "ImplemmentingPointers.C": "cpp",
-        "Arrays and Pointers.C": "cpp"
+        "Arrays and Pointers.C": "cpp",
+        "Exercise One.C": "cpp",
+        "Exercise Two.C": "cpp",
+        "Exercise Three.C": "cpp",
+        "Exercise Four.C": "cpp"
     }
 }
