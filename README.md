@@ -25,7 +25,7 @@ resources needed for the course. Here you will find lessons, exercises and pract
 
 2. Preparing the environment ✅
 
-3.Intruduction to C Language ✅
+3. Intruduction to C Language ✅
 
 4. Decision structures in C ✅
 
@@ -39,10 +39,9 @@ resources needed for the course. Here you will find lessons, exercises and pract
 
 9. Functions in C ✅
 
-10. Pointers in C 🚶🚶 
+10. Pointers in C ✅
+
+11. Inputs and Outputs File 🚶🚶 
 
 ...next chapters &nbsp;⚙️ &nbsp; 
 
-## C programming from basic to advanced Track License
-
-This repository uses the [MIT License](/LICENSE).
