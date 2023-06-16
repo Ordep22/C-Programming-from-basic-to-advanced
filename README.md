@@ -1,7 +1,7 @@
 <br>
 
 <img align="left" width="90" height="90" src="Images/C_Programming_Language.png">
-<p vertical-align="middle"><h1>Course of Data Science with Python</h1></p>
+<p vertical-align="middle"><h1>C Programming from basic to advanced</h1></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;
