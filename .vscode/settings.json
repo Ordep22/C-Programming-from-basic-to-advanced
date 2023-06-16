@@ -25,6 +25,11 @@
         "Exercise One.C": "cpp",
         "Exercise Two.C": "cpp",
         "Exercise Three.C": "cpp",
-        "Exercise Four.C": "cpp"
+        "Exercise Four.C": "cpp",
+        "Handling inputs and outputs.C": "cpp",
+        "Criate a Txt file.C": "cpp",
+        "Read a file.C": "cpp",
+        "Read a file - characters.C": "cpp",
+        "Read a file - Lines.C": "cpp"
     }
 }
