@@ -4,7 +4,7 @@ int main(){
 
     FILE *file;
 
-    char name[10], *result;
+    char name[100], *result;
 
     file  = fopen("file.txt","r");
 
@@ -14,10 +14,15 @@ int main(){
         while (!feof(file)) //feof -> File End of File
         {
             
-            fgets(name,10,file);
-            
-            printf("%s",name);
+            result = fgets(name,100, file);
 
+            //fgets(name,10,file);
+            if(result){
+
+                printf("%s\n",name);
+
+            }
+            
         }
         
 

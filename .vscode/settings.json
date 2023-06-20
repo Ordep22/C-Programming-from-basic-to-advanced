@@ -30,6 +30,10 @@
         "Criate a Txt file.C": "cpp",
         "Read a file.C": "cpp",
         "Read a file - characters.C": "cpp",
-        "Read a file - Lines.C": "cpp"
+        "Read a file - Lines.C": "cpp",
+        "Manipuling Data.C": "cpp",
+        "Manipulating Data.C": "cpp",
+        "cstdio": "cpp",
+        "Read and Manipulating Data.C": "cpp"
     }
 }
