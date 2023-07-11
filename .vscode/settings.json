@@ -34,6 +34,11 @@
         "Manipuling Data.C": "cpp",
         "Manipulating Data.C": "cpp",
         "cstdio": "cpp",
-        "Read and Manipulating Data.C": "cpp"
+        "Read and Manipulating Data.C": "cpp",
+        "Write in a File.C": "cpp",
+        "Define Types.C": "cpp",
+        "Define Types of Structs.C": "cpp",
+        "Define Structs with moust elements.C": "cpp",
+        "Define Structs of Structs.C": "cpp"
     }
 }
