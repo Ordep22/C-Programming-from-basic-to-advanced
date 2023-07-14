@@ -41,7 +41,9 @@ resources needed for the course. Here you will find lessons, exercises and pract
 
 10. Pointers in C ✅
 
-11. Inputs and Outputs File 🚶🚶 
+11. Inputs and Outputs File ✅
+
+12. Structures in C 🚶🚶
 
 ...next chapters &nbsp;⚙️ &nbsp; 
 
