@@ -39,6 +39,8 @@
         "Define Types.C": "cpp",
         "Define Types of Structs.C": "cpp",
         "Define Structs with moust elements.C": "cpp",
-        "Define Structs of Structs.C": "cpp"
+        "Define Structs of Structs.C": "cpp",
+        "Union.C": "cpp",
+        "Enumerate.C": "cpp"
     }
 }
