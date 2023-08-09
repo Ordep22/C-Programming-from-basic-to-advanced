@@ -42,6 +42,9 @@
         "Define Structs of Structs.C": "cpp",
         "Typedef.C": "cpp",
         "Typedef&Pointers.C": "cpp",
-        "Typedef&Vectors.C": "cpp"
+        "Typedef&Vectors.C": "cpp",
+        "Bitwise.C": "cpp",
+        "TesteIHM.C": "cpp",
+        "Recursion Function.C": "cpp"
     }
 }
