@@ -45,6 +45,7 @@
         "Typedef&Vectors.C": "cpp",
         "Bitwise.C": "cpp",
         "TesteIHM.C": "cpp",
-        "Recursion Function.C": "cpp"
+        "Recursion Function.C": "cpp",
+        "ifndef.C": "cpp"
     }
 }
