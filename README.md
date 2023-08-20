@@ -45,7 +45,10 @@ resources needed for the course. Here you will find lessons, exercises and pract
 
 12. Structs in C ✅
 
-13. Recursion in C 🛠️ ⚙️
+13. Recursion in C ✅
+
+14. Build Directive 🛠️ ⚙️
+
+
 
 ...next chapters &nbsp;⚙️ &nbsp; 
-

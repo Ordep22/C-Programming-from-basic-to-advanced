@@ -40,7 +40,17 @@
         "Define Types of Structs.C": "cpp",
         "Define Structs with moust elements.C": "cpp",
         "Define Structs of Structs.C": "cpp",
+<<<<<<< HEAD
         "Union.C": "cpp",
         "Enumerate.C": "cpp"
+=======
+        "Typedef.C": "cpp",
+        "Typedef&Pointers.C": "cpp",
+        "Typedef&Vectors.C": "cpp",
+        "Bitwise.C": "cpp",
+        "TesteIHM.C": "cpp",
+        "Recursion Function.C": "cpp",
+        "ifndef.C": "cpp"
+>>>>>>> 0bde870f9fbe404e4c61d2ba7d6212cb1dab7436
     }
 }
