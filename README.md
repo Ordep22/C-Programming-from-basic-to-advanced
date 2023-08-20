@@ -47,7 +47,9 @@ resources needed for the course. Here you will find lessons, exercises and pract
 
 13. Recursion in C ✅
 
-14. Build Directive 🛠️ ⚙️
+14. Build Directive ✅
+
+15. Useful Libraries 🛠️ ⚙️
 
 
 
