@@ -1,0 +1,18 @@
+The molst usefull functions use in "stdio.h" are"
+
+• Acsses to a files
+ - fclose()
+ - ffflush // clean the buffer
+ - fclose()
+
+• Formated inputs and outputs
+ - fscanf() 
+ - printf()
+ - scanf()
+
+• Charactres inputs and outputs
+ - gets()
+ - fputs()
+ - getchar()
+ - fgets()
+
