@@ -1,7 +1,15 @@
 The molst usefull functions use in "stdlib.h" are"
 
-•Typechat
-
+• Typechat form a string (number format) to a number
+ - Whem the value is a string such as "S" or "T", generaly the functions retunr zero "0"
+ 
  - atof // Convert a string in a float number
  - atoi // Convert a string in a interger number
+ - atol // Convert a string in long interger
+
+• Generate randon numbers
+
+ - rand // Generate randon numbers
+ - srand // Start the generator number
+
    
