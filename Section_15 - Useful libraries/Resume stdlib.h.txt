@@ -1,0 +1,7 @@
+The molst usefull functions use in "stdlib.h" are"
+
+•Typechat
+
+ - atof // Convert a string in a float number
+ - atoi // Convert a string in a interger number
+   
