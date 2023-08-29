@@ -12,4 +12,19 @@ The molst usefull functions use in "stdlib.h" are"
  - rand // Generate randon numbers
  - srand // Start the generator number
 
-   
+
+• Menagement of dinamic memory
+
+ - malloc
+ - calloc
+ - free
+ - realoc
+
+ • Sharch and ordenate a vector
+
+ - qsort // Reorganize a vector
+
+ • AArithmetic 
+
+ - abs() // return the abs number of a value
+ 

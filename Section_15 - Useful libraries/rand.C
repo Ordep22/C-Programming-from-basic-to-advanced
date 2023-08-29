@@ -16,7 +16,6 @@ int main(){
             //From (0) to (61-1) 
             printf("%d\n", rand()%61);
 
-
     }
 
 
