@@ -1,0 +1,27 @@
+The molst usefull functions use in "math.h" are"
+
+• Trigonometric functions
+ - sin()
+ - cos() // clean the buffer
+ - tan()
+
+• Trigonometric hiperbolic functions
+ - sinh()
+ - cosh()
+ - tanh() 
+
+• Logarithmic functions
+ - exp() //This function returns the Logarithmic of a number in the base 10. 
+ - log() // Logarithmic natural
+ - log10() //Logarithmic base 10
+ - pow() //return the base raised to the exponent 
+
+• Square rout 
+ - sqrt() // Square route of a number
+
+ • Rounding Functions
+  - ceil() //rouding to up 
+  - floor() //rouding to down
+
+
+

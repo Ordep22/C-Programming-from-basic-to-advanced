@@ -1,0 +1,13 @@
+The molst usefull functions use in "ctype.h" are"
+
+• Testing the characxter types
+
+ - isalnum() // veriph if the character is alphanumerics (abc123...)
+ - isalpha() // veriph if the character is alphabetics (abcd..)
+ - isdigit() // veriph if the character is alphabetics (abcd..)
+ - ispunct() // veriph if the character is a pontuation signal (abcd..)
+ - isspace() // veriph if there a space ()
+ - isupper() // veriph if the character is uper case
+ - islower() // veriph if the character is lower case
+ - tolower() // Convert the character to lower case
+ - toupper() // conver the character to upper case 
