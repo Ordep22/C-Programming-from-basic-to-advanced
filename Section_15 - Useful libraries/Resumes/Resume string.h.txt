@@ -1,0 +1,9 @@
+The molst usefull functions use in "string.h" are"
+
+Ths operations with strings can be most usefull in c
+
+• Operations with string
+ - strcpy // Copy a value to a string
+ - strcat() //Concatenetes a tow strings
+ - strcmp() // Comper tow strings and return  True if that one was differents
+  

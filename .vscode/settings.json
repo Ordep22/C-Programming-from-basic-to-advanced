@@ -104,6 +104,9 @@
     "TesteIHM.C": "cpp",
     "Recursion Function.C": "cpp",
     "ifndef.C": "cpp",
-    "ctypeFunctions.C": "cpp"
+    "ctypeFunctions.C": "cpp",
+    "strcat.C": "cpp",
+    "Square rout.C": "cpp",
+    "strcmp.C": "cpp"
   }
 }
