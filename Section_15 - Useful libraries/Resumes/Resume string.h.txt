@@ -6,4 +6,12 @@ Ths operations with strings can be most usefull in c
  - strcpy // Copy a value to a string
  - strcat() //Concatenetes a tow strings
  - strcmp() // Comper tow strings and return  True if that one was differents
-  
+ - strchr() // find the first ocour of the character in a string
+   - This function retur a string from the fistr ocour of the charater to end
+     of the string argment
+ - strtok() // Return the subs strings from the original string from a specific character
+ - strlen() //Retunr the size of the input string
+   #Most important:
+        The strlen() funtcion is used to determine the length of a string (excluding null terminator).
+        In contrast, the sizeof() function is used to determine the size in bytes of a variable or data type
+        (including the null terminator fo strings)

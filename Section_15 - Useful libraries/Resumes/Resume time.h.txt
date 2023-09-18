@@ -1,0 +1,9 @@
+The molst usefull functions in "time.h" are"
+
+This library have some functions about operating time
+
+•Time operator
+
+ - clock() // Return the numbers of pulses from the start of the code to the end
+ - time() //Reurn the actual time of the calendar
+ - localtime() // Return the local time

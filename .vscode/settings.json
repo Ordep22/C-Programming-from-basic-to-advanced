@@ -107,6 +107,12 @@
     "ctypeFunctions.C": "cpp",
     "strcat.C": "cpp",
     "Square rout.C": "cpp",
-    "strcmp.C": "cpp"
+    "strcmp.C": "cpp",
+    "strchr.C": "cpp",
+    "strtok.C": "cpp",
+    "strlen.C": "cpp",
+    "clock.C": "cpp",
+    "time.C": "cpp",
+    "localtime.C": "cpp"
   }
 }
