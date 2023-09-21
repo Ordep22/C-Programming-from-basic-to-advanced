@@ -114,6 +114,7 @@
     "clock.C": "cpp",
     "time.C": "cpp",
     "localtime.C": "cpp",
-    "maloc.C": "cpp"
+    "maloc.C": "cpp",
+    "calloc.C": "cpp"
   }
 }
