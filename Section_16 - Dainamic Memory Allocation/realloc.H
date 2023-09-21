@@ -1,0 +1,1 @@
+int Inser_Values_in_Memory(int *pointer, int buffersize);

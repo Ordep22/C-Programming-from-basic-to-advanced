@@ -115,6 +115,7 @@
     "time.C": "cpp",
     "localtime.C": "cpp",
     "maloc.C": "cpp",
-    "calloc.C": "cpp"
+    "calloc.C": "cpp",
+    "realloc.C": "cpp"
   }
 }
