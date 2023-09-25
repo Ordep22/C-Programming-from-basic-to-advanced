@@ -5,14 +5,14 @@
 int main(){
 
     int* pointer;
-    int newsize, buffersize, answer;
+    int newsize = 0, buffersize = 0, answer = 0;
 
     printf("What is the size of the buffer?");
     scanf("%d",&buffersize);
 
     Inser_Values_in_Memory(pointer,buffersize);
     
-    printf("Do you wnat to inser new values \n[1] - Yes \n[2] - No: ");
+    printf("Do you want to inser new values \n[1] - Yes \n[2] - No: ");
     scanf("%d",&answer);
 
     if (answer == 1){
@@ -22,31 +22,24 @@ int main(){
         scanf("%d",&newsize);
         
         realloc(pointer,newsize);
-
-        Inser_Values_in_Memory(pointer,buffersize);
-
+       
+        Inser_Values_in_Memory(pointer,newsize);
     }
     else {
-
 
     free(pointer);
     pointer = NULL;
 
     }
 
-
-
-
-
-
 }
-
 
 int Inser_Values_in_Memory(int *pointer, int buffersize){
 
-    int buffer;
+    int buffer = 0;
 
     pointer = (int*)calloc(buffersize,sizeof(int));
+    //pointer  = (int*)malloc(buffer*sizeof(int));
 
     if (pointer){
 
@@ -54,7 +47,6 @@ int Inser_Values_in_Memory(int *pointer, int buffersize){
 
             printf("buffer[%d]",i);
             scanf("%d",&pointer[i]);
-
         }
 
     }
@@ -72,6 +64,9 @@ int Inser_Values_in_Memory(int *pointer, int buffersize){
     }
 
     printf("}\n");
+
+    buffer = 0;
+    free(pointer);
 
     return 0 ;
 
