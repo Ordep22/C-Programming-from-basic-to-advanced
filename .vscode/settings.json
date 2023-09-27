@@ -117,6 +117,7 @@
     "maloc.C": "cpp",
     "calloc.C": "cpp",
     "realloc.C": "cpp",
-    "Allocation of multidimensional arrays.C": "cpp"
+    "Allocation of multidimensional arrays.C": "cpp",
+    "Queue.C": "cpp"
   }
 }
