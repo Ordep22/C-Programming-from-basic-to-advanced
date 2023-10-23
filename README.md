@@ -59,4 +59,6 @@ resources needed for the course. Here you will find lessons, exercises and pract
 
 19. Binary Shearch 🛠️⚙️
 
+
+
 &nbsp; &nbsp; 
