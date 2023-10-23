@@ -49,8 +49,14 @@ resources needed for the course. Here you will find lessons, exercises and pract
 
 14. Build Directive ✅
 
-15. Useful Libraries 🛠️ ⚙️
+15. Useful Libraries ✅
 
+16. Danimic Memory allocation ✅
 
+17. Data Structs in C ✅
 
-...next chapters &nbsp;⚙️ &nbsp; 
+18. Vector Ordenation 🛠️⚙️
+
+19. Binary Shearch 🛠️⚙️
+
+&nbsp; &nbsp; 

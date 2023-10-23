@@ -1,39 +1,41 @@
 {
-    "configurations": [
-        {
-            "name": "C/C++: gcc Compilar e depurar o arquivo ativo",
-            "type": "cppdbg",
-            "request": "launch",
-            "program": "${fileDirname}/${fileBasenameNoExtension}",
-            "args": [],
-            "stopAtEntry": false,
-            "cwd": "${fileDirname}",
-            "environment": [],
-            "externalConsole": false,
-            "MIMode": "lldb",
-            "preLaunchTask": "C/C++: gcc arquivo de build ativo"
-        },
-        {
-            "name": "C/C++ Runner: Debug Session",
-            "type": "lldb",
-            "request": "launch",
-            "args": [],
-            "cwd": "/Users/PedroVitorPereira/Documents/GitHub/C-Programming-from-basic-to-advanced/Section_15 - Useful libraries",
-            "program": "/Users/PedroVitorPereira/Documents/GitHub/C-Programming-from-basic-to-advanced/Section_15 - Useful libraries/build/Debug/outDebug"
-        },
-        {
-            "name": "C/C++: clang Compilar e depurar o arquivo ativo",
-            "type": "cppdbg",
-            "request": "launch",
-            "program": "${fileDirname}/${fileBasenameNoExtension}",
-            "args": [],
-            "stopAtEntry": false,
-            "cwd": "${fileDirname}",
-            "environment": [],
-            "externalConsole": false,
-            "MIMode": "lldb",
-            "preLaunchTask": "C/C++: clang arquivo de build ativo"
-        }
-    ],
-    "version": "2.0.0"
+  "configurations": [
+    {
+      "name": "C/C++: gcc Compilar e depurar o arquivo ativo",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${fileDirname}/${fileBasenameNoExtension}",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "lldb",
+      "preLaunchTask": "C/C++: gcc arquivo de build ativo"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "console": "externalTerminal",
+      "cwd": ".",
+      "program": "build/Debug/outDebug"
+    },
+    {
+      "name": "C/C++: clang Compilar e depurar o arquivo ativo",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${fileDirname}/${fileBasenameNoExtension}",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "lldb",
+      "preLaunchTask": "C/C++: clang arquivo de build ativo"
+    }
+  ],
+  "version": "2.0.0"
 }

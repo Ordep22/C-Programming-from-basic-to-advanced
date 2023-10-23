@@ -119,6 +119,13 @@
     "realloc.C": "cpp",
     "Allocation of multidimensional arrays.C": "cpp",
     "Queue.C": "cpp",
-    "Stack.C": "cpp"
-  }
+    "Stack.C": "cpp",
+    "file.C": "cpp",
+    "teste.C": "cpp",
+    "Linked List.C": "cpp",
+    "Linked List Reforcing.C": "cpp",
+    "Binary Tree.C": "cpp",
+    "Binary Tree Reforcing.C": "cpp"
+  },
+  "C_Cpp_Runner.msvcSecureNoWarnings": false
 }
