@@ -127,7 +127,9 @@
     "Binary Tree.C": "cpp",
     "Binary Tree Reforcing.C": "cpp",
     "Select Sort.C": "cpp",
-    "Insert Sort.C": "cpp"
+    "Insert Sort.C": "cpp",
+    "Bubble Sort.C": "cpp",
+    "Blubble Sort.C": "cpp"
   },
   "C_Cpp_Runner.msvcSecureNoWarnings": false
 }

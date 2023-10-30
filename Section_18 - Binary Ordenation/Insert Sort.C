@@ -38,13 +38,6 @@ void InsertSort(int vector[], int size){
     }
 
 
-
-
-
-
-
-
-
 int main(){
 
     int vector[6] = {8,3,1,42,12,5};
