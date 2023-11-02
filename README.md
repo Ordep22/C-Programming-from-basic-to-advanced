@@ -57,7 +57,7 @@ resources needed for the course. Here you will find lessons, exercises and pract
 
 18. Vector Ordenig ✅
 
-19. Binary Shearch 🛠️⚙️
+19. Binary Shearch ✅
 
 
 
