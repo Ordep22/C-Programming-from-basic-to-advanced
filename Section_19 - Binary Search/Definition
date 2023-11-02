@@ -1,0 +1,5 @@
+Binary search is a type of search performed on ordered vectors. This method in
+volves successive divisions of a vector until the expected value is found.
+
+In the first step, the algorithm searches for the middle of vector. It then repeats the process of division
+to find the expected value.
